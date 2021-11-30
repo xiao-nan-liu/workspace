@@ -2,7 +2,7 @@ This document is to describe the Alzheimer's Disease Project.
 
 Background
 
-Use the MRI, FDG-PET, and Amyloid-PET image to detect if the patient is in earlystage of AD, which is, cognitive impairment.
+Use the MRI, FDG-PET, and Amyloid-PET image to detect if the patient is in early stage of AD, which is, cognitive impairment.
 
 Challenge
 
