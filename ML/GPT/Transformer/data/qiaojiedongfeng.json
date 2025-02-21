@@ -1,0 +1,8 @@
+{
+	"default": {
+		"train": {
+			"meta": "train.jsonl",
+			"file": ""
+		}
+	}
+}
